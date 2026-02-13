@@ -86,7 +86,7 @@ ADMIN_ID    = 123456789  # Replace with your Telegram User ID
 # Match this number to the number of Token Sets you have to ensure 1-to-1 mapping.
 NUM_WORKERS = 2 
 
-# 3. Receipt Tokens (Dumped from Jailbroken/Rooted Devices)
+# 3. Receipt Tokens (Dumped from Jailbroken/Rooted/Nonjb Devices)
 TOKEN_SETS = [
     {
         "fetch_token": "ey...",      # RevenueCat Fetch Token
